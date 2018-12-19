@@ -1,5 +1,9 @@
 package main
-import ("fmt")
+import (
+	"fmt"
+	"os"
+	"text/template"
+)
 
 func main(){
 	fmt.Println("Testing")
